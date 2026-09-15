@@ -158,8 +158,8 @@ def generate_index():
 <div id="nav" class="column span-18 append-1 prepend-1">
   <ul class="navigation">
     <li><a href='https://openid.net/wg/fapi/'>About</a></li>
-    <li><a href='https://bitbucket.org/openid/fapi/'>Repository</a></li>
-    <li><a href="https://bitbucket.org/openid/fapi/issues?status=new&status=open">Issues</a></li>
+    <li><a href='https://github.com/openid/fapi/'>Repository</a></li>
+    <li><a href="https://github.com/openid/fapi/issues">Issues</a></li>
   </ul>
 </div>
 <div id="content">
